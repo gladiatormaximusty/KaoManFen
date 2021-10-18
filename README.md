@@ -18,3 +18,4 @@
 重新進入後，即可登入：
 ![image](https://user-images.githubusercontent.com/22107536/137779016-aaf5231c-36ea-4a2e-acba-23858098c6ff.png)
 
+備註：此插件不含先前考滿分遮蓋外掛，需要同時使用！
