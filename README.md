@@ -8,7 +8,7 @@
 安裝流程如下：
 
 進入--> 更多工具--> 進入擴充功能
-![image](https://user-images.githubusercontent.com/22107536/137779340-69329426-abae-4036-9e2b-1443f3b1f5c0.png)
+![image](https://user-images.githubusercontent.com/22107536/137780550-8cfe9ec7-f716-4daa-8efd-dec8d6db0bd4.png)
 
 點選開發人員模式：並載入未封裝項目
 ![image](https://user-images.githubusercontent.com/22107536/137779467-a68cf571-1e00-4d18-b45b-dfdcc63c1ac0.png)
