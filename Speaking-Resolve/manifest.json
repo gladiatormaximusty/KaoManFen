@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Speaking-Resolve",
+    "author": "Edward Xiong",
+    "description": "解除考滿分Speaking",
+    "version": "1.0.0",
+    "homepage_url": "https://github.com/gladiatormaximusty/KaoManFen.git",
+    "content_scripts": [{
+      "matches": ["http://*.kmf.com/*", "https://*.kmf.com/*"],
+      "js": ["script.js"]
+    }]
+  }
