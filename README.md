@@ -13,7 +13,7 @@
 點選開發人員模式：並載入未封裝項目
 ![image](https://user-images.githubusercontent.com/22107536/137779467-a68cf571-1e00-4d18-b45b-dfdcc63c1ac0.png)
 
-請教資料夾 Speaking-Resolve 完整地載入
+請將資料夾 Speaking-Resolve 完整地載入
 
 重新進入後，即可登入：
 ![image](https://user-images.githubusercontent.com/22107536/137779016-aaf5231c-36ea-4a2e-acba-23858098c6ff.png)
